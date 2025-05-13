@@ -1,4 +1,11 @@
-## hi, i'm henry!
+## Hi, I'm Henry!
+
+### I am:
+- Currently a second year student studying Computer Science at the University of Waterloo.
+- An aspiring software engineer 
+- Passionate about building cool things
+- Seeking fall 2025 internship opportunities
+- Almost complete beating Geometry Dash (a second time)
 
 <!--
 **Henry-The-Yang-101/Henry-The-Yang-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
