@@ -1,11 +1,15 @@
 ## Hi, I'm Henry!
 
 ### I am:
-- 🎓 Currently a second year student studying Computer Science at the University of Waterloo.
-- ⌨️ An aspiring software engineer 
-- 🛠️ Passionate about building cool things
+- 🎓 A second year student studying Computer Science at the University of Waterloo
+- 🧑🏻‍💻 An aspiring software engineer 
+- 🛠️ Passionate about learning and building
 - 👁️ Seeking fall 2025 internship opportunities
-- 🥶 Almost beating Geometry Dash (a second time)
+- 💪🏻 An avid badminton player and gym-goer
+- 🥶 Almost done beating Geometry Dash (a second time)
+- 🍿 An [enjoyer of cinema](https://letterboxd.com/savagesparky101/)
+
+Feel free to get in touch!
 
 <!--
 **Henry-The-Yang-101/Henry-The-Yang-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
