@@ -1,11 +1,11 @@
 ## Hi, I'm Henry!
 
 ### I am:
-- 🎓 A second year student studying Computer Science at the University of Waterloo
-- 🧑🏻‍💻 An aspiring software engineer 
+- 🎓 A third year student studying Computer Science at the University of Waterloo
+- 🧑🏻‍💻 An aspiring software engineer passionate about global distributed systems and compilers
 - 🛠️ Passionate about learning and building
 - 👁️ Seeking fall 2025 internship opportunities
-- 💪🏻 An avid badminton player and gym-goer
+- 💪🏻 An avid gym-goer
 - 🥶 Almost done beating Geometry Dash (a second time)
 - 🍿 An [enjoyer of cinema](https://letterboxd.com/savagesparky101/)
 
