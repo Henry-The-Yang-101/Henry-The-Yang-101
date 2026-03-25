@@ -2,9 +2,9 @@
 
 ### I am:
 - 🎓 A third year student studying Computer Science at the University of Waterloo
-- 🧑🏻‍💻 An aspiring software engineer passionate about global distributed systems and compilers
+- 🧑🏻‍💻 An aspiring software engineer passionate about global distributed systems, compilers, and code infrastructure
 - 🛠️ Passionate about learning and building
-- 👁️ Seeking fall 2025 internship opportunities
+- 👁️ Seeking summer 2026 internship opportunities
 - 💪🏻 An avid gym-goer
 - 🥶 Almost done beating Geometry Dash (a second time)
 - 🍿 An [enjoyer of cinema](https://letterboxd.com/savagesparky101/)
