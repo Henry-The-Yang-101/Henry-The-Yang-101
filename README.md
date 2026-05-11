@@ -4,7 +4,7 @@
 - 🎓 A third year student studying Computer Science at the `University of Waterloo`
 - 🧑🏻‍💻 An aspiring SWE passionate about distributed systems, AI/ML infra, operating systems, and everything in between
 - 👾 An incoming SWE Intern at `Gemini Exchange` where I will be building AI developer tooling
-- 👁️ Seeking fall/winter 2026 internship opportunities
+- 👁️ Seeking fall 2026 / winter 2027 internship opportunities
 - 🤨 An opposer of light mode IDEs and Supercell
 - 🥶 Almost done beating Geometry Dash (a second time)
 - 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
