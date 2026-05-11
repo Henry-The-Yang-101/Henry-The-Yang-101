@@ -2,7 +2,7 @@
 
 ### I am:
 - 🎓 A third year student studying Computer Science at the University of Waterloo
-- 🧑🏻‍💻 An aspiring software engineer passionate about distributed systems, AI/ML infrastructure, low-level operating systems, and everything in between
+- 🧑🏻‍💻 An aspiring software engineer passionate about distributed systems, AI/ML infrastructure, operating systems, and everything in between
 - 👾 An incoming Software Engineer at `Gemini Exchange`
 - 👁️ Seeking fall/winter 2026 internship opportunities
 - 🤨 An opposer of light mode IDEs and Supercell
