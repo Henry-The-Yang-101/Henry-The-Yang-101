@@ -2,12 +2,12 @@
 
 ### I am:
 - 🎓 A third year student studying Computer Science at the University of Waterloo
-- 🧑🏻‍💻 An aspiring software engineer passionate about global distributed systems, compilers, and code infrastructure
-- 🛠️ Passionate about learning and building
-- 👁️ Seeking summer 2026 internship opportunities
-- 💪🏻 An avid gym-goer
+- 🧑🏻‍💻 An aspiring software engineer passionate about distributed systems, AI/ML infratsructure, compilers, operating systems, and everything in between
+- An incoming Software Engineer at `Gemini Exchange`
+- 👁️ Seeking fall/winter 2026 internship opportunities
+- 🤨 A disliker of light mode IDEs
 - 🥶 Almost done beating Geometry Dash (a second time)
-- 🍿 An [enjoyer of cinema](https://letterboxd.com/savagesparky101/)
+- 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
 
 Feel free to get in touch!
 
