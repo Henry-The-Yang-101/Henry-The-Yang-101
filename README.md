@@ -3,9 +3,9 @@
 ### I am:
 - 🎓 A third year student studying Computer Science at the University of Waterloo
 - 🧑🏻‍💻 An aspiring software engineer passionate about distributed systems, AI/ML infratsructure, compilers, operating systems, and everything in between
-- An incoming Software Engineer at `Gemini Exchange`
+- 👾 An incoming Software Engineer at `Gemini Exchange`
 - 👁️ Seeking fall/winter 2026 internship opportunities
-- 🤨 A disliker of light mode IDEs
+- 🤨 A disliker of light mode IDEs and Supercell
 - 🥶 Almost done beating Geometry Dash (a second time)
 - 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
 
