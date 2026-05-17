@@ -1,7 +1,7 @@
 ## Hi, I'm Henry!
 
 ### I am:
-- 🎓 A third year student studying Computer Science at the `University of Waterloo`
+- 🎓 A third year student studying Computer Science (AI Spec.) at the `University of Waterloo`
 - 🧑🏻‍💻 An aspiring SWE passionate about distributed systems, AI/ML infra, operating systems, and everything in between
 - 👾 An incoming SWE Intern at `Gemini Exchange` where I will be building AI developer tooling
 - 👁️ Seeking fall 2026 / winter 2027 internship opportunities
