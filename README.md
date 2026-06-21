@@ -3,10 +3,11 @@
 ### I am:
 - 🎓 A third year student studying Computer Science (AI Spec.) at the `University of Waterloo`
 - 🧑🏻‍💻 An aspiring SWE passionate about distributed systems, AI/ML infra, operating systems, and everything in between
-- 👾 An incoming SWE Intern at `Gemini Exchange` where I will be building AI developer tooling
+- 👾 An current SWE Intern at `Gemini Exchange` where I am building agentic dev tooling and RAG semantic search systems
 - 👁️ Seeking fall 2026 / winter 2027 internship opportunities
 - 🤨 An opposer of light mode IDEs and Supercell
-- 🥶 Almost done beating Geometry Dash (a second time)
+- ♟️ 1800 USCF Rapid Chess Rating
+- 🥶 Beat Geometry Dash (a second time)
 - 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
 
 Feel free to get in touch!
