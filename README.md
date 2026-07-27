@@ -1,16 +1,3 @@
-## Hi, I'm Henry!
-
-### I am:
-- 🎓 A third year student studying Computer Science (AI Spec.) at the `University of Waterloo`
-- 🧑🏻‍💻 An aspiring SWE passionate about distributed systems, AI/ML infra, operating systems, and everything in between
-- 👾 An current SWE Intern at `Gemini Exchange` where I am building agentic dev tooling and RAG semantic search systems
-- 👁️ Seeking fall 2026 / winter 2027 internship opportunities
-- 🤨 An opposer of light mode IDEs and Supercell
-- ♟️ 1800 USCF Rapid Chess Rating
-- 🥶 Beat Geometry Dash (a second time)
-- 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
-
-Feel free to get in touch!
 ```
                                                               +#     .*@%                                                                                              
                                                     -@-   +@@@.  *@@@@@.  .+%@@@:                                                                                      
@@ -53,6 +40,19 @@ Feel free to get in touch!
 
 ```
 
+## Hi, I'm Henry!
+
+### I am:
+- 🎓 A third year student studying Computer Science (AI Spec.) at the `University of Waterloo`
+- 🧑🏻‍💻 An aspiring SWE passionate about distributed systems, AI/ML infra, operating systems, and everything in between
+- 👾 An current SWE Intern at `Gemini Exchange` where I am building agentic dev tooling and RAG semantic search systems
+- 👁️ Seeking fall 2026 / winter 2027 internship opportunities
+- 🤨 An opposer of light mode IDEs and Supercell
+- ♟️ 1800 USCF Rapid Chess Rating
+- 🥶 Beat Geometry Dash (a second time)
+- 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
+
+Feel free to get in touch!
 
 
 <!--
