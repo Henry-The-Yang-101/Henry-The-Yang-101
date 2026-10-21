@@ -34,16 +34,16 @@
                                          =++=-:                  :@@@@%*
 ```
 
-## Hi, I'm Henry!
+## Hey, I'm Henry!
 
 ### I am:
 - 🎓 A third year student studying Computer Science (AI Spec.) at the `University of Waterloo`
 - 🧑🏻‍💻 An aspiring SWE passionate about distributed systems, AI/ML infra, operating systems, and everything in between
-- 👾 An current SWE Intern at `Gemini Exchange` where I am building agentic dev tooling and RAG semantic search systems
+- 🦾 Motivated to build software that genuinely provides value for people
+- 👾 A previous SWE intern at `Gemini Exchange`, `BitGo`, `Shopify`, and `System1`
 - 👁️ Seeking fall 2026 / winter 2027 / summer 2027 internship opportunities
-- 🤨 An opposer of light mode IDEs and Supercell
+- 🤨 An opposer of light mode IDEs
 - ♟️ 1800 USCF Rapid Chess Rating
-- 🦾 Motivated in creating applications that are actually useful to people
 - 🍿 An [avid movie watcher](https://letterboxd.com/savagesparky101/)
 - 💪🏻 Training towards doing a muscle up
 
